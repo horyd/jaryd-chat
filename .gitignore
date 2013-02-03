@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **/.DS_Store
 nbproject
 manifest.mf
@@ -6,3 +7,19 @@ build.xml
 .project
 .settings
 .idea/*
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+>>>>>>> db9090166f54506dccee32836cdb7e58af8541b7
